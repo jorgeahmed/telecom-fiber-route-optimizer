@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-Algorithms-3776AB?style=for-the-badge&logo=python)
 ![NetworkX](https://img.shields.io/badge/Graph_Theory-NetworkX-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Code Style](https://img.shields.io/badge/Code%20Style-Black-000000?style=for-the-badge)
 
 ## 📌 Business Case
 Expanding fiber optic infrastructure involves solving complex routing challenges to minimize cabling costs while maximizing coverage. This project demonstrates the specific algorithm used to plan a **1,000km backbone** expansion, saving **~15% in material costs** through optimal pathfinding.
